@@ -1,0 +1,74 @@
+{
+  "name": "ClothingItem",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name or description of the clothing item"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "tops",
+        "bottoms",
+        "dresses",
+        "outerwear",
+        "shoes",
+        "accessories"
+      ],
+      "description": "Type of clothing item"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "URL to the image of the item"
+    },
+    "source_url": {
+      "type": "string",
+      "description": "Original website URL where the item is from"
+    },
+    "brand": {
+      "type": "string",
+      "description": "Brand name"
+    },
+    "color": {
+      "type": "string",
+      "description": "Primary color of the item"
+    },
+    "season": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ]
+      },
+      "description": "Suitable seasons for this item"
+    },
+    "occasion": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "casual",
+          "business",
+          "formal",
+          "athletic",
+          "party"
+        ]
+      },
+      "description": "Suitable occasions for this item"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Personal notes about the item"
+    }
+  },
+  "required": [
+    "name",
+    "category",
+    "image_url"
+  ]
+}

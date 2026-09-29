@@ -1,0 +1,22 @@
+{
+  "name": "GiftCard",
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "string",
+      "description": "Unique gift card code"
+    },
+    "amount": {
+      "type": "number",
+      "description": "Gift card value in COP"
+    },
+    "pdf_url": {
+      "type": "string",
+      "description": "URL to the generated PDF file"
+    }
+  },
+  "required": [
+    "code",
+    "amount"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "VideoTutorial",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Title of the video tutorial"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of what the tutorial covers"
+    },
+    "video_url": {
+      "type": "string",
+      "description": "URL to the uploaded video file"
+    },
+    "thumbnail_url": {
+      "type": "string",
+      "description": "Thumbnail image URL for the video"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "getting_started",
+        "wardrobe",
+        "outfits",
+        "ai_assistant",
+        "advanced"
+      ],
+      "description": "Category of the tutorial"
+    },
+    "duration": {
+      "type": "string",
+      "description": "Duration of the video (e.g., '5:30')"
+    },
+    "order": {
+      "type": "number",
+      "default": 0,
+      "description": "Display order (lower numbers first)"
+    },
+    "is_published": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether the video is visible to users"
+    }
+  },
+  "required": [
+    "title",
+    "video_url"
+  ],
+  "rls": {
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "read": {
+      "$or": [
+        {
+          "is_published": true
+        },
+        {
+          "user_condition": {
+            "role": "admin"
+          }
+        }
+      ]
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

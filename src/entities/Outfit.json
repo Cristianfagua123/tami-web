@@ -1,0 +1,78 @@
+{
+  "name": "Outfit",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the outfit"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description or notes about the outfit"
+    },
+    "clothing_items": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Array of clothing item IDs that make up this outfit"
+    },
+    "clothing_items_snapshot": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "image_url": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          }
+        }
+      },
+      "description": "Snapshot of clothing items for public display"
+    },
+    "occasion": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "casual",
+          "business",
+          "formal",
+          "athletic",
+          "party"
+        ]
+      },
+      "description": "Suitable occasions for this outfit"
+    },
+    "season": {
+      "type": "string",
+      "enum": [
+        "spring",
+        "summer",
+        "fall",
+        "winter",
+        "all"
+      ],
+      "description": "Best season for this outfit"
+    },
+    "favorite": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this is a favorite outfit"
+    },
+    "is_public": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this outfit is visible to other users"
+    }
+  },
+  "required": [
+    "name",
+    "clothing_items"
+  ]
+}
