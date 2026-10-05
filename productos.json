@@ -1,0 +1,400 @@
+[
+ {
+  "nombre": "Parka",
+  "categoria": "parka",
+  "marca": "TAMI",
+  "precio": 170000,
+  "tela": "Drill",
+  "detalle": "Parka totalmente forrada",
+  "colores": [
+   {
+    "color": "Blanco",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/6ce24003b_01-PARKACOP170000tela_Drilltotalmenteforrada.png"
+   },
+   {
+    "color": "Verde Oliva",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/756e1722d_02-PARKACOP170000tela_Drilltotalmenteforrada.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/54e5bfc10_03-PARKACOP170000tela_Drilltotalmenteforrada.png"
+   }
+  ]
+ },
+ {
+  "nombre": "CHAQUETA NEBRASKA",
+  "categoria": "chaquetas",
+  "marca": "THASMI",
+  "precio": 130000,
+  "tela": "Paño pesado",
+  "detalle": "Hebilla forrada en la manga",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/dd452ec23_image.png"
+   },
+   {
+    "color": "Crema",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/dcb908980_image.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/43ef5f9d7_image.png"
+   },
+   {
+    "color": "Taupe",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/b32692846_image.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Pantalón Cuero/Gamuza",
+  "categoria": "pantalones",
+  "marca": "TAMI",
+  "precio": 100000,
+  "tela": "Cuero/Gamuza",
+  "detalle": "Pantalón Cuero/Gamuza",
+  "colores": [
+   {
+    "color": "Café",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/aaa752d5f_01-PANTALONCUERINAGAMUZACOP100000HermosopantalnCuerinaTallas68101214.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/7bd052f9d_02-PANTALONCUERINAGAMUZACOP100000HermosopantalnCuerinaTallas68101214.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/37effcebf_03-PANTALONCUERINAGAMUZACOP100000HermosopantalnCuerinaTallas68101214.png"
+   },
+   {
+    "color": "Café Oscuro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/6f34b42ef_04-PANTALONCUERINAGAMUZACOP100000HermosopantalnCuerinaTallas68101214.png"
+   },
+   {
+    "color": "Verde",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/f9684a71a_05-PANTALONCUERINAGAMUZACOP100000HermosopantalnCuerinaTallas68101214.png"
+   },
+   {
+    "color": "Marrón",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/2a334765c_P6.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Pantalón Lino Bota Ancha",
+  "categoria": "pantalones",
+  "marca": "TAMI",
+  "precio": 100000,
+  "tela": "Lino",
+  "detalle": "Noches de Viena",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/40ed6bb51_02-PANTALONLINOBOTAANCHACOP100000Tela_linonochesdeviena.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/2eb25e5c5_03-PANTALONLINOBOTAANCHACOP100000Tela_linonochesdeviena.png"
+   },
+   {
+    "color": "Blanco",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/a8e62918d_01-PANTALONLINOBOTAANCHACOP100000Tela_linonochesdeviena.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Esencial Largo",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 190000,
+  "tela": "Suede",
+  "detalle": "Gabán esencial largo, hebillas forradas en las mangas",
+  "colores": [
+   {
+    "color": "Café",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/9c2606cd3_01-GABANESENCIALLARGOCOP190000GABANESENCIALTELA_SUEDEHEBILLASFORRADASENLASMANGAS.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/e40ba2769_02-GABANESENCIALLARGOCOP190000GABANESENCIALTELA_SUEDEHEBILLASFORRADASENLASMANGAS.png"
+   },
+   {
+    "color": "Camel",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/b3d76c403_03-GABANESENCIALLARGOCOP190000GABANESENCIALTELA_SUEDEHEBILLASFORRADASENLASMANGAS.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/39e630d22_04-GABANESENCIALLARGOCOP190000GABANESENCIALTELA_SUEDEHEBILLASFORRADASENLASMANGAS.png"
+   },
+   {
+    "color": "Camel Claro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/8f8cc8023_05-GABANESENCIALLARGOCOP190000GABANESENCIALTELA_SUEDEHEBILLASFORRADASENLASMANGAS.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Premium",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 220000,
+  "tela": "Drill",
+  "detalle": "Gabán Premium, totalmente forrado",
+  "colores": [
+   {
+    "color": "Blanco",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/d21e06033_01-GABANPREMIUMCOP220000GabanPREMIUMtela_Drilltotalmenteforrado.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/b6b47a7b3_02-GABANPREMIUMCOP220000GabanPREMIUMtela_Drilltotalmenteforrado.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/2ea9df4b1_03-GABANPREMIUMCOP220000GabanPREMIUMtela_Drilltotalmenteforrado.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Esencial Corto",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 150000,
+  "tela": "Suede",
+  "detalle": "Gabán corto, botones forrados",
+  "colores": [
+   {
+    "color": "Café",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/a4d31dd39_01-GABANESENCIALCORTOCOP150000GABANCORTOTela_Suedebotonesforrados.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/073c2054f_02-GABANESENCIALCORTOCOP150000GABANCORTOTela_Suedebotonesforrados.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/b14f6e589_03-GABANESENCIALCORTOCOP150000GABANCORTOTela_Suedebotonesforrados.png"
+   },
+   {
+    "color": "Café Claro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/3ef39a663_04-GABANESENCIALCORTOCOP150000GABANCORTOTela_Suedebotonesforrados.png"
+   },
+   {
+    "color": "Camel",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/e7ed647b3_05-GABANESENCIALCORTOCOP150000GABANCORTOTela_Suedebotonesforrados.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabardina Drill",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 190000,
+  "tela": "Drill",
+  "detalle": "Gabán largo con botones",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/deb0c47d0_01-GABARDINADRILLCOP190000tela_Drill.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/55c92eb94_02-GABARDINADRILLCOP190000tela_Drill.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Esencial Cuero",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 150000,
+  "tela": "Cuero/Gamuza",
+  "detalle": "Gabán Esencial Cuero/Gamuza",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/fcba652ef_1-ESENCIALCUEROCOP150000HermosoGabanencuerinagamuzada.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/35437bebd_2-ESENCIALCUEROCOP150000HermosoGabanencuerinagamuzada.png"
+   },
+   {
+    "color": "Café",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/edcc7173c_3-ESENCIALCUEROCOP150000HermosoGabanencuerinagamuzada.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Noruega",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 190000,
+  "tela": "Cuero/Gamuza",
+  "detalle": "Hebillas forradas en la manga",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/50a92319d_01-GABANCUERINAGAMUZADACOP190000tela_cuerinagamuzadatalla_nicahebillasforradasenlamanga.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/682abc4e1_02-GABANCUERINAGAMUZADACOP190000tela_cuerinagamuzadatalla_nicahebillasforradasenlamanga.png"
+   },
+   {
+    "color": "Verde Oliva",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/3e8d8a0ff_03-GABANCUERINAGAMUZADACOP190000tela_cuerinagamuzadatalla_nicahebillasforradasenlamanga.png"
+   },
+   {
+    "color": "Café",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/0ab547352_04-GABANCUERINAGAMUZADACOP190000tela_cuerinagamuzadatalla_nicahebillasforradasenlamanga.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/d5ccc9d34_05-GABANCUERINAGAMUZADACOP190000tela_cuerinagamuzadatalla_nicahebillasforradasenlamanga.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Chaleco Suede",
+  "categoria": "chalecos",
+  "marca": "TAMI",
+  "precio": 90000,
+  "tela": "Suede",
+  "detalle": "Chaleco de tela Suede",
+  "colores": [
+   {
+    "color": "Azul",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/5a3311b9f_7-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/d3adf85ad_1-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Camel",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/4fa177a9a_2-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Camel",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/302462ff6_3-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Gris",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/c5dfefc1b_4-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Azul",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/ef69bc30e_5-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   },
+   {
+    "color": "Blanco",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/502541fff_6-CHALECOCOP90000Chalecotalla_UNICATElA_SUEDE.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Blusa",
+  "categoria": "blusas",
+  "marca": "TAMI",
+  "precio": 50000,
+  "tela": "Nylon/Spandex",
+  "detalle": "Body ajustado de manga larga",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/eed8de7ee_2-BODY_SCOP50000Tela_NylonSpandexTallas_SML.png"
+   },
+   {
+    "color": "Taupe",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/7fd93c46e_3-BODY_SCOP50000Tela_NylonSpandexTallas_SML.png"
+   },
+   {
+    "color": "Marrón",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/abf098978_1-BODY_SCOP50000Tela_NylonSpandexTallas_SML.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Roma",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 190000,
+  "tela": "Punta Roma 420 gramos",
+  "detalle": "Gabán en punta roma de 420 gramos",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/f445a6a2d_1-GABANROMACOP190000GABANROMAtela_PuntaRoma420gramostallas_SML.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/76837db98_2-GABANROMACOP190000GABANROMAtela_PuntaRoma420gramostallas_SML.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán París",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 220000,
+  "tela": "Cuerina sintética totalmente forrado",
+  "detalle": "Gabán totalmente forrado en cuerina sintética",
+  "colores": [
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/b1ed07097_1-GABANPARISCOP220000tela_CuerinasintticatotalmenteFORRADOtallas_SML.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/dea000410_2-GABANPARISCOP220000tela_CuerinasintticatotalmenteFORRADOtallas_SML.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/386a4d86a_3-GABANPARISCOP220000tela_CuerinasintticatotalmenteFORRADOtallas_SML.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/19ba8b7b7_4-GABANPARISCOP220000tela_CuerinasintticatotalmenteFORRADOtallas_SML.png"
+   }
+  ]
+ },
+ {
+  "nombre": "Gabán Mónaco",
+  "categoria": "gabanes",
+  "marca": "TAMI",
+  "precio": 190000,
+  "tela": "Paño",
+  "detalle": "Gabán con cinturón a la cintura",
+  "colores": [
+   {
+    "color": "Taupe",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/6380a08d5_1-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Crema",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/1d424bb99_2-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Negro",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/d72333eb4_3-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Verde",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/bd2355d34_4-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Gris",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/162302203_5-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Vino",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/50fc56206_6-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   },
+   {
+    "color": "Beige",
+    "imagen": "https://media.base44.com/images/public/6a9c689c765c88a4dffb0dc0/88d12a4fe_7-GABANMONACO-COP190000GabanMnacoTela_Pao.png"
+   }
+  ]
+ }
+]
